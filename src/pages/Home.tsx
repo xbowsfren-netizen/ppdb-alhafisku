@@ -69,7 +69,7 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-lg md:text-xl text-slate-600 mb-10 leading-relaxed"
             >
-              Bergabunglah bersama {settings?.namaSekolah || 'SDN Harapan Bangsa'}. Kami berkomitmen memberikan pendidikan dasar terbaik dengan fasilitas modern dan tenaga pendidik profesional.
+              Bergabunglah bersama {settings?.namaSekolah || 'SDN GOWA'}. Kami berkomitmen memberikan pendidikan dasar terbaik dengan fasilitas modern dan tenaga pendidik profesional.
             </motion.p>
             
             <motion.div
@@ -221,7 +221,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Alur Pendaftaran PPDB</h2>
             <p className="text-slate-400 max-w-2xl mx-auto text-lg">
-              Ikuti langkah-langkah mudah berikut untuk mendaftarkan putra/putri Anda di SDN Harapan Bangsa.
+              Ikuti langkah-langkah mudah berikut untuk mendaftarkan putra/putri Anda di SDN GOWA.
             </p>
           </div>
 
